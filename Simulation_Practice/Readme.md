@@ -2,7 +2,8 @@
 
 Here I used robopal.It was a multi-platform, modular robot simulation framework based on MuJoCo physics engine, which is mainly used for reinforcement learning training and control algorithm implementation of robotic arms. Please check the Documentation for more information.
 
-![Uploading Final position.jpg…]()
+![Final position](https://github.com/user-attachments/assets/c383745f-0951-4aae-9d83-4978e9e044aa)
+
 
 ## RoboPal - Getting Started 🚀
 
