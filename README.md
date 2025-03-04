@@ -49,8 +49,13 @@ arm and hand using algorithms such as Riemannian Motion Policies (RMPs).
 
 – Ensures safe and stable teleoperation by dynamically adapting to environmental
 constraints.
+### Reproduction Results :
 
-
+https://drive.google.com/file/d/1tnQRBRV70f7sH1B5BF6acbjSkgz5Q01Z/view?usp=sharing
+ 
+https://drive.google.com/file/d/1CXYVzcWUpEsoNcZla_Rn1jxIrapQWOE2/view?usp=sharing
+ 
+https://drive.google.com/file/d/1MLhhJQ72tMmFT0PrJjlvZJVFfp1srKw7/view?usp=sharing
 
 ## Hand Bounding Box Detection
 ### Data Pre-processing
