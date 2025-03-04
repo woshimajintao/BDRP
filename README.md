@@ -1,4 +1,4 @@
-# BDRP
+# BDRP_Jintao_Ma
 ## Work Timeline
 During the past months.  I firstly practiced on some simulation tools like Mujoco,then I accomplished the critical milestone of reproducing the methodol-
 ogy presented in the selected paper AnyTeleop: A General Vision-Based Dexterous Robot
