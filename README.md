@@ -7,4 +7,9 @@ bounding box detection task based on the Oxford Hand Dataset[https://www.robots.
 ![image](https://github.com/user-attachments/assets/db6c70cd-ba84-438c-8a64-a67e44e5fa37)
 
 
-##
+## Paper Reproduction
+
+
+
+## Hand Bounding Box Detection
+
