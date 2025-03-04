@@ -53,6 +53,18 @@ constraints.
 
 
 ## Hand Bounding Box Detection
+### Data Pre-processing
+For Faster-RCNN: Extract bounding box coordinates from the .mat file, then com-
+pute the top-left corner (xmin, ymin) and the width and height of the bounding box. Store
+the annotations in COCO format and save them as a JSON file.
+
+For YOLO: Extract bounding box coordinates from the .mat file, then determine
+the bounding box limits (maxX, minX, maxY, minY). Normalize the center coordinates,
+width, and height relative to the image dimensions. Store the annotations in YOLO format
+and save them as a .txt file.
+![image](https://github.com/user-attachments/assets/19250fd1-bd2e-47bd-bfb3-a42c96c73330)
+
+
 ### Faster_RCNN
 
 Below is a structured text-based workflow diagram explaining each stage of the Faster R-CNN pipeline when using ResNet50 as the backbone for hand bounding box detection.
