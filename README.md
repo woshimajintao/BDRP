@@ -82,3 +82,7 @@ It divides the input image into a grid, predicts bounding boxes and class probab
 a single forward pass, filters low-confidence detections, applies Non-Maximum Suppression
 (NMS) to remove duplicates, and outputs the final detected objects.
 
+
+## Some Document Links:
+### Supervisor's Feedback and Meeting Records every time: https://drive.google.com/file/d/1yS3ZDzt_QWBXg7xbEHecqk0ybkTOYvET/view?usp=sharing
+
