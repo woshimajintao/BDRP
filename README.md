@@ -53,4 +53,20 @@ constraints.
 
 
 ## Hand Bounding Box Detection
+### Faster_RCNN
+
+Below is a structured text-based workflow diagram explaining each stage of the Faster R-CNN pipeline when using ResNet50 as the backbone for hand bounding box detection.
+![Faster-RCNN](https://github.com/user-attachments/assets/fed7478c-2059-443b-be99-cf3edb5203fc)
+This section details the pipeline for hand detection using Faster R-CNN with ResNet50 as the backbone. The process consists of multiple stages, including feature extraction, region proposal, classification, and bounding box refinement.
+
+### YOLO
+YOLO (You Only Look Once) is a single-shot object detection framework that directly
+predicts object bounding boxes and class probabilities from an image in one forward pass.
+This section details the key steps in the YOLO detection pipeline.
+![image](https://github.com/user-attachments/assets/88e00aed-1c60-47f9-b288-2df66a98ee30)
+
+
+It divides the input image into a grid, predicts bounding boxes and class probabilities in
+a single forward pass, filters low-confidence detections, applies Non-Maximum Suppression
+(NMS) to remove duplicates, and outputs the final detected objects.
 
