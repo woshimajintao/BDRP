@@ -12,7 +12,7 @@ os.chdir('/content/drive/MyDrive/Colab Notebooks/BDRP/hand_dataset/')
 ```
 Use one of the following commands to execute the conversion script:
 
-## **Step 2:Convert to YOLO format:
+## **Step 2:Convert to YOLO format**
 
 ```
 !python converter_to_YOLO.py
@@ -27,7 +27,7 @@ Convert to Faster-RCNN format:
 This script will process .mat annotation files and generate the corresponding annotation files compatible with YOLO and Faster-RCNN.
 
 
-Output
+## **Output **
 
 YOLO-formatted annotation files will be saved in the dataset directory.
 
