@@ -27,7 +27,7 @@ Convert to Faster-RCNN format:
 This script will process .mat annotation files and generate the corresponding annotation files compatible with YOLO and Faster-RCNN.
 
 
-## **Output **
+## **Output**
 
 YOLO-formatted annotation files will be saved in the dataset directory.
 
