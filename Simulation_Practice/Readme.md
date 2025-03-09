@@ -29,7 +29,7 @@ The easiest way to install RoboPal is via **pip**:
 pip install robopal
 
 
-### **Experiments Video**
+## **Experiments Video**
 https://drive.google.com/file/d/1MBqAYyYwkfifOJh8bGKUl1m4qfe9XVB3/view?usp=sharing
 
 
